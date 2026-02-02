@@ -1,8 +1,8 @@
-# Privacy Policy
+# Privacy Policy for SERCHI
 
 Effective date: October 10, 2025
 
-This Privacy Policy describes how we collect, use, and protect your personal information when you use our mobile application (the “App”).
+This Privacy Policy describes how SERCHI collects, uses, and protects your personal information when you use our mobile application SERCHI (the “App”).
 
 1. Information We Collect
 When you submit a request to publish advertising through the App, we may collect the following information:
